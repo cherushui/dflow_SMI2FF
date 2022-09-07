@@ -1,0 +1,19 @@
+{
+"input":{
+"name":["ethane"],
+"smi":["CC"],
+"charge":[0],
+"multiplicity":[1],
+
+"OPT":{
+"gauss_keyword":"# opt freq b3lyp/aug-cc-PVDZ scf(xqc) nosymm em=gd3"
+},
+"ESP":{
+"gauss_keyword":"# b3lyp/aug-cc-PVTZ scf(xqc) nosymm em=gd3"
+}
+
+},
+"resources":{},
+"machine":{}
+}
+
